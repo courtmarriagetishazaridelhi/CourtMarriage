@@ -1,0 +1,108 @@
+============================================
+APNI PHOTOS YAHAN SAVE KAREIN — EXACT NAMES
+============================================
+
+Aapne chat mein 7 photos dikhayi thi. Unko EXACTLY in
+filenames se is "media" folder mein save karein:
+
+----------------------------------------------------
+1. banner-court-marriage-main.jpg
+   ➜ Gold theme banner with couple — "Court Marriage
+     Registration Delhi" — ₹6100, 2 Hours Certificate,
+     Advocate Help, No Police Problem, Full Protection
+     (jis mein 9891343962 number hai woh wala)
+
+2. wedding-couple-family.jpg
+   ➜ Real wedding photo — couple with family members
+     (jisme dulha-dulhan + 4-5 family members khade hain
+     mandir background mein, faces blurred)
+
+3. banner-arya-samaj-court.jpg
+   ➜ "ARYA SAMAJ MANDIR MARRIAGE" header banner with
+     "Court Marriage & Marriage Registration" text aur
+     wedding ceremony images
+
+4. arya-samaj-mandir-interior.jpg
+   ➜ Real Arya Samaj Mandir interior photo — priest ji
+     hawan kar rahe hain, OM symbol background, red
+     theme decor
+
+5. office-arya-samaj-bhawan.jpg
+   ➜ AI rendered office building image — "COURT MARRIAGE
+     OFFICE - ARYA SAMAJ BHAWAN" signboard, advocates
+     standing with couple
+
+6. cartoon-court-marriage-cert.jpg
+   ➜ Cartoon illustration — bride & groom holding
+     "COURT MARRIAGE" certificate, "Call On 9315198092"
+     header (aap chahein toh number edit kar sakte ho
+     to 9891343962)
+
+7. cartoon-best-service.jpg
+   ➜ Cartoon "INDIA BEST COURT MARRIAGE SERVICE" with
+     couple, judge, scales of justice — red ribbon at
+     bottom with phone number
+
+----------------------------------------------------
+
+IMPORTANT NOTES:
+================
+
+1. Photos save karte time:
+   - Format JPG/JPEG ho (PNG bhi chalega)
+   - Size 800x600 px ya is se bada (kam nahi)
+   - File size 500KB se kam (compress karein agar zyada hai)
+
+2. Compression ke liye:
+   - Free tool: https://tinyjpg.com (drag-drop, easy)
+   - Ya phone gallery se "share" → "compress" option
+
+3. Agar koi photo aap nahi save karte:
+   - Website automatically Unsplash backup image dikhayegi
+   - Page break nahi hoga
+   - Lekin aapki real photo zyada trustworthy lagti hai
+
+4. GitHub par upload:
+   - Saari 7 photos is "media" folder mein save karne ke baad
+   - Pura "media" folder GitHub par upload karein
+   - Ya sirf ye 7 new files add karein agar folder pehle se hai
+
+5. Phone numbers wala issue:
+   - Banner #1 mein 9891343962 hai (sahi hai)
+   - Banner #2, cartoon #1, cartoon #2 mein 9315198092 hai
+   - Aap chahein toh phone par photo edit karke number
+     change kar sakte hain (apps: Snapseed, Pixlr)
+   - Ya jaise hain waise hi save karein (mixed numbers
+     bhi chalenge — dono aapke hain)
+
+============================================
+WEBSITE PAR YEH PHOTOS YAHAN DIKHENGI:
+============================================
+
+✅ index.html (Home Page)
+   → Gallery preview section (6 photos)
+
+✅ gallery.html (Gallery Page)
+   → Photo Gallery section mein top 7 cards
+   → Office & Locations section mein
+
+============================================
+FALLBACK SYSTEM (Smart Setup)
+============================================
+
+Maine HTML mein onerror="..." add kiya hai. Iska matlab:
+- Agar aapki photo media folder mein hai → woh dikhegi
+- Agar nahi hai → Unsplash ki similar photo dikhegi
+- Page kabhi bhi tooti hui nahi dikhegi
+
+Aap jaise jaise apni photos add karoge, woh real photos
+website pe dikhne lagengi.
+
+============================================
+HELP CHAHIYE?
+============================================
+
+Photos save karte time koi problem aaye to call:
+9891343962
+
+Ya WhatsApp screenshot bhej do, exact help kar dunga.

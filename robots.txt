@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://courtmarriagedelhi.in/sitemap.xml
+
+# Block admin/temp files
+Disallow: /css/
+Disallow: /js/
+
+# Allow crawling of all pages
+Allow: /*.html$
+Allow: /sitemap.xml
